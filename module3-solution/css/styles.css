@@ -11,7 +11,6 @@ body {
   border: 0;
 }
 
-
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
@@ -195,10 +194,10 @@ body {
     padding: 0;
   }*/
 
-  #menu-tile, #specials-tile {
+/*   #menu-tile, #specials-tile {
     width: 360px;
     margin: 0 auto 15px;
-  }
+  } */
 
 }
 
@@ -213,9 +212,9 @@ body {
   /* End Header */
   
   /* Home page */
-  #menu-tile, #specials-tile {
+/*   #menu-tile, #specials-tile {
     width: 280px;
     margin: 0 auto 15px;
-  }
+  } */
 }
 
