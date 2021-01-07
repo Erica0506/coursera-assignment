@@ -186,18 +186,6 @@ body {
     letter-spacing: .1em;
     text-transform: uppercase;
   }
-  /* End Header */
-
-  /* Home Page */
-/*  .container .jumbotron {
-    margin-top: 30px;
-    padding: 0;
-  }*/
-
-/*   #menu-tile, #specials-tile {
-    width: 360px;
-    margin: 0 auto 15px;
-  } */
 
 }
 
@@ -210,11 +198,6 @@ body {
     font-size: 6vw;
   }
   /* End Header */
-  
-  /* Home page */
-/*   #menu-tile, #specials-tile {
-    width: 280px;
-    margin: 0 auto 15px;
-  } */
+
 }
 
